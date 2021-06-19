@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite thread-count="2" name="Web Test Suite" parallel="methods">
-  <test thread-count="2" name="Web Tests" parallel="methods">
+  <test thread-count="2" name="Web Tests  local" parallel="methods">
     <classes>
       <class name="com.jakartalabs.may2021.tests.AppTest"/>
     </classes>
