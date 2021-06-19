@@ -1,0 +1,5 @@
+com/jakartalabs/may2021/tests/BaseAPITest.class
+com/jakartalabs/may2021/tests/BaseWebTest.class
+com/jakartalabs/may2021/tests/AppTest.class
+com/jakartalabs/may2021/tests/APITests.class
+com/jakartalabs/may2021/tests/IWebDriver.class

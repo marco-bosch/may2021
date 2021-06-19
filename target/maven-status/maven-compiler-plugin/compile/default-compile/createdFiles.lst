@@ -1,0 +1,13 @@
+com/jakartalabs/may2021/pages/ProfilePage.class
+com/jakartalabs/may2021/utils/TestUtils.class
+com/jakartalabs/may2021/pages/CommonWebPage.class
+com/jakartalabs/may2021/JsonPaths.class
+com/jakartalabs/may2021/AppEnums.class
+com/jakartalabs/may2021/pages/BlogHomePage.class
+com/jakartalabs/may2021/pages/HomePage.class
+com/jakartalabs/may2021/AppEnums$MenuNames.class
+com/jakartalabs/may2021/pages/BasePage.class
+com/jakartalabs/may2021/pages/LoginPage.class
+com/jakartalabs/may2021/APIEndpoints.class
+com/jakartalabs/may2021/AppEnums$NavigationCommands.class
+com/jakartalabs/may2021/utils/DataUtils.class

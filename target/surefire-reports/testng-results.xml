@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-19T07:34:10Z" name="Web Test Suite" finished-at="2021-06-19T07:34:16Z" duration-ms="6215">
+    <groups>
+    </groups>
+    <test started-at="2021-06-19T07:34:10Z" name="Web Tests" finished-at="2021-06-19T07:34:16Z" duration-ms="6215">
+      <class name="com.jakartalabs.may2021.tests.APITests">
+        <test-method signature="testLoginAPIWithInvalidCredentials()[pri:1, instance:com.jakartalabs.may2021.tests.APITests@6f3f0fae]" started-at="2021-06-19T07:34:10Z" name="testLoginAPIWithInvalidCredentials" finished-at="2021-06-19T07:34:13Z" duration-ms="2782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAPIWithInvalidCredentials -->
+        <test-method signature="testLoginAPI()[pri:2, instance:com.jakartalabs.may2021.tests.APITests@6f3f0fae]" started-at="2021-06-19T07:34:13Z" name="testLoginAPI" finished-at="2021-06-19T07:34:15Z" duration-ms="2000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAPI -->
+        <test-method signature="testDashboardAPI()[pri:3, instance:com.jakartalabs.may2021.tests.APITests@6f3f0fae]" started-at="2021-06-19T07:34:15Z" name="testDashboardAPI" finished-at="2021-06-19T07:34:16Z" duration-ms="1411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDashboardAPI -->
+      </class> <!-- com.jakartalabs.may2021.tests.APITests -->
+    </test> <!-- Web Tests -->
+  </suite> <!-- Web Test Suite -->
+</testng-results>
